@@ -5,5 +5,7 @@ public class main1 {
         System.out.println("wo2");
 
         System.out.println("wo3");
+
+        System.out.println("wo4");
     }
 }
