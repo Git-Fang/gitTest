@@ -7,5 +7,7 @@ public class main1 {
         System.out.println("wo3");
 
         System.out.println("wo4");
+
+        System.out.println("hot-fix test");
     }
 }
